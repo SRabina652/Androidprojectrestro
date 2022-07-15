@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecycleView2</string>
+    <string name="header">This is the Header Text</string>
+    <string name="desc">This is the description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
